@@ -1,0 +1,40 @@
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe.config
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.pdb
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.Properties.Resources.resources
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.exe
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.pdb
+C:\Users\danie\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.frmMyAquariums.resources
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe.config
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.exe
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.pdb
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.pdb
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.frmMyAquariums.resources
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\Projeto_P2\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe.config
+C:\Users\unisanta\Desktop\Projeto_P2\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.exe
+C:\Users\unisanta\Desktop\Projeto_P2\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.pdb
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe.config
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.pdb
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csprojAssemblyReference.cache
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.frmMyAquariums.resources
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.Properties.Resources.resources
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csproj.GenerateResource.cache
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csproj.CoreCompileInputs.cache
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.exe
+C:\Users\rcose\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.pdb
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe.config
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.exe
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.pdb
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.exe
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\bin\Debug\Aquarium Monitoring Server.pdb
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.frmMyAquariums.resources
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium_Monitoring_Server.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Aquarium Monitoring Server-20180515T215148Z-001\Aquarium Monitoring Server\Aquarium Monitoring Server\obj\Debug\Aquarium Monitoring Server.csproj.GenerateResource.Cache
